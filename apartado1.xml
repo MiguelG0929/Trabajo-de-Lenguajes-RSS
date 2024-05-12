@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title> NOTICIAS DAM </title>
+        <link>https://www.abc.es/tecnologia/</link>
+        <description>Este es un medio de difusion para informaticos donde se habla sobre la tecnología</description>
+        
+        <item>
+            <title> El mítico Nokia 3210 vuelve a las tiendas  </title>
+            <link> https://www.abc.es/tecnologia/mitico-nokia-3210-vuelve-tiendas-vez-20240508131358-nt.html </link>
+            <description> En apariencia, el móvil, como hemos dicho recuerda mucho al original. Luce el mismo color gris en la carcasa -cuenta con versiones en azul y dorado- e incorpora teclado físico.   </description>
+            <pubDate>Wed, 08 may 2024 13:13:00 GMT </pubDate>
+        </item>
+
+        <item>
+            <title> TikTok demanda a Estados Unidos para evitar el bloqueo en el país </title>
+            <link> https://www.abc.es/tecnologia/tiktok-demanda-estados-unidos-evitar-bloqueo-pais-20240507181913-nt.html </link>
+            <description> La red social ha presentado una demanda, ante la corte de apelación del distrito de Columbia, contra el Gobierno de Estados Unidos con la que espera frenar de forma definitiva la nueva ley, firmada el pasado abril por el presidente Biden, y que amenaza con bloquear la 'app' en todo el país el próximo enero. </description>
+            <pubDate> Tue, 07 may 2024 19:09:00 GMT   </pubDate>
+        </item>
+
+        <item>
+            <title> Probamos el OPPO Reno11 F 5G, </title>
+            <link> https://www.abc.es/tecnologia/probamos-oppo-reno11-telefono-equilibrado-quieren-gastar-20240501175231-nt.html </link>
+            <description> Un teléfono equilibrado para los que no quieren gastar mucho  </description>
+            <pubDate> Wed, 08 may 2024 15:13:00 GMT  </pubDate>
+        </item>
+
+        <item>
+            <title> Todo lo que se sabe de PlayStation 5 Pro </title>
+            <link> https://www.abc.es/tecnologia/sabe-playstation-pro-consola-deberia-llegar-termine-20240416171102-nt.html#vca=modulo-rel-dos&vso=abc&vmc=noticias-rel&vli=tecnologia  </link>
+            <description> la máquina ofrecerá gráficos mucho mejores que el modelo actual. Las desarrolladoras ya lo tienen en cuenta para el lanzamiento de sus futuros videojuegos  </description>
+            <pubDate> Wed, 08 may 2024 15:13:00 GMT   </pubDate>
+        </item>
+
+        <item>
+            <title> La realidad virtual se hace sólida en el sector inmobiliario </title>
+            <link> https://www.abc.es/economia/realidad-virtual-solida-sector-inmobiliario-20240512032205-nt.html  </link>
+            <description>La realidad virtual y aumentada se han convertido en herramientas indispensables en la compraventa de inmuebles. En tiempos de pandemia, las comercializadoras recurrieron a esta tecnología para que los potenciales compradores pudieran visitar propiedades sin moverse de casa.   </description>
+            <pubDate> Sun, 12 may 2024 03:22:00 GMT    </pubDate>
+        </item>
+
+
+        </channel>
+        </rss>
